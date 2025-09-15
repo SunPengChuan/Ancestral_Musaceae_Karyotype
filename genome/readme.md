@@ -8,5 +8,5 @@
 | *M. troglodytarum*  | *Uta*                         |
 | *M. balbisiana*     | *Mba*                         |
 | *M. schizocarpa*    | *Msc*                         |
-| *M. acuminata*      | *mac41s*                      |
+| *M. acuminata*      | *Mac*                         |
 | *M. beccarii*       | *Mbe*                         |
