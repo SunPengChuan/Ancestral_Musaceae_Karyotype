@@ -5,9 +5,9 @@
 13	1	1577	purple	1
 14	1	2064	green	1
 15	1	1937	olive	1
-16	1	441	silver	1
+16	1	439	silver	1
 17	1	2376	teal	1
-18	1	413	pink	1
+18	1	385	pink	1
 2	1	2680	blue	1
 3	1	3345	orange	1
 4	1	2862	Magenta	1

@@ -13,6 +13,6 @@ ev6	595	2285	lime	1
 ac8	1	1577	purple	1
 ex8	1	2064	green	1
 ex8	2065	4001	olive	1
-ex9	2862	3302	silver	1
+ex9	2864	3302	silver	1
 gl7	1	2376	teal	1
-gl7	2378	2790	pink	1
+gl7	2378	2762	pink	1
